@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System 📒
 
 Welcome to the Library Management System! This system is designed to help manage a library's collection of books and information of it's members, as well as Issue or Return book by patrons.
 
