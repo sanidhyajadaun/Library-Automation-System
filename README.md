@@ -21,7 +21,7 @@ cd library-management-system
 Next, you can compile the program by running the following command:
 
 ```
-g++ -std=c++17 -o library library.cpp
+g++ -std=c++17 -o library libmanage.cpp
 ```
 
 Replace g++ with the path to your C++ compiler if necessary.
